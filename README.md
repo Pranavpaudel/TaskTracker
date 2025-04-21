@@ -96,7 +96,9 @@ Task added. Task ID 1
 
 ---
 
-Project URL: https://roadmap.sh/projects/task-tracker 
+## Project URL: https://roadmap.sh/projects/task-tracker
+
+---
 
 ## 📄 License
 
