@@ -88,12 +88,15 @@ Task added. Task ID 1
 
 ## 🛠 Future Improvements
 
+- add the provision for users to not provide .json extension 
 - Add due dates or priorities
 - Allow editing of task names
 - Provide sorting or searching functionality
 - GUI version using Tkinter or PyQt
 
 ---
+
+Project URL: https://roadmap.sh/projects/task-tracker 
 
 ## 📄 License
 
